@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-11-07T03:09:39.276Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="ArCJ-LQgOxPXdJERTJPH" version="13.1.2" type="github" pages="5">
+<mxfile host="www.draw.io" modified="2020-11-07T03:10:15.186Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="MhewbgRFUpNJpO9bzsFa" version="13.1.2" type="github" pages="5">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="模块关系图">
     <mxGraphModel dx="2249" dy="713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -559,7 +559,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="taoXMEVDwfOjpukIMY0D" name="服务模块依赖">
-    <mxGraphModel dx="2523" dy="1939" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4405" dy="2883" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="Kf1W2Hzalx-Y5VPWWjzz-0" />
         <mxCell id="Kf1W2Hzalx-Y5VPWWjzz-1" parent="Kf1W2Hzalx-Y5VPWWjzz-0" />
