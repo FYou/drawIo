@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-11-12T02:40:27.830Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="YPDhZptx7Adq7YmjtQIZ" version="13.1.2" type="github" pages="5">
+<mxfile host="www.draw.io" modified="2020-11-12T02:42:33.403Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="9mLMSn9MF1YqHJ8y9VGL" version="13.1.2" type="github" pages="6">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="模块关系图">
     <mxGraphModel dx="2249" dy="713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1113,6 +1113,38 @@
         </mxCell>
         <mxCell id="AZDJSa3NNNw3QKxvxjKk-76" value="创建运单&lt;br&gt;重新抛单&lt;br&gt;取消运单&lt;br&gt;确认到店&lt;br&gt;手工重抛" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=11;" vertex="1" parent="Kf1W2Hzalx-Y5VPWWjzz-1">
           <mxGeometry x="2980" y="520" width="80" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="KqVUZXd-BKpY14wvyQDn" name="全渠道库存管理">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="9mtj9pO67-W9BD1gXb9t-0" />
+        <mxCell id="9mtj9pO67-W9BD1gXb9t-1" parent="9mtj9pO67-W9BD1gXb9t-0" />
+        <mxCell id="9mtj9pO67-W9BD1gXb9t-2" value="order-api" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontColor=#0078D7;" vertex="1" parent="9mtj9pO67-W9BD1gXb9t-1">
+          <mxGeometry x="140" y="210" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9mtj9pO67-W9BD1gXb9t-3" value="order-center" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontColor=#0078D7;" vertex="1" parent="9mtj9pO67-W9BD1gXb9t-1">
+          <mxGeometry x="330" y="210" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9mtj9pO67-W9BD1gXb9t-4" value="wmdj" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontColor=#0078D7;" vertex="1" parent="9mtj9pO67-W9BD1gXb9t-1">
+          <mxGeometry x="90" y="120" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9mtj9pO67-W9BD1gXb9t-5" value="jddj" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontColor=#0078D7;" vertex="1" parent="9mtj9pO67-W9BD1gXb9t-1">
+          <mxGeometry x="180" y="120" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9mtj9pO67-W9BD1gXb9t-6" value="cpc" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontColor=#0078D7;" vertex="1" parent="9mtj9pO67-W9BD1gXb9t-1">
+          <mxGeometry x="270" y="120" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9mtj9pO67-W9BD1gXb9t-7" value="s&amp;amp;g" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontColor=#0078D7;" vertex="1" parent="9mtj9pO67-W9BD1gXb9t-1">
+          <mxGeometry x="380" y="120" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9mtj9pO67-W9BD1gXb9t-8" value="offline" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontColor=#0078D7;" vertex="1" parent="9mtj9pO67-W9BD1gXb9t-1">
+          <mxGeometry x="480" y="120" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9mtj9pO67-W9BD1gXb9t-9" value="message-center" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontColor=#0078D7;" vertex="1" parent="9mtj9pO67-W9BD1gXb9t-1">
+          <mxGeometry x="230" y="320" width="150" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
